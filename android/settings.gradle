@@ -1,0 +1,3 @@
+rootProject.name = 'play_time_3361'
+
+include ':app'
